@@ -23,7 +23,7 @@
 ## emulsiV
 **URL:** https://eseo-tech.github.io/emulsiV/
 
-**Summary:** 
+**Summary:** This website is a virtual simulator of an RISC (Reduced Instruction Set Computer). The program was designed with the explicit purpose of teaching Computer Architecture.
 
 **Key Takeaways:**
 
