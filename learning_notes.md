@@ -26,8 +26,12 @@
 **Summary:** This website is a virtual simulator of an RISC (Reduced Instruction Set Computer). The program was designed with the explicit purpose of teaching Computer Architecture.
 
 **Key Takeaways:**
+- The program counter sends information to the computer's memory, which is converted into data and sent to the instruction registry.
+- The registry processes the instructions sent to it and transfers it to the ALU to be conducted alongside some general-purpose data.
+- The final product is sent back to the program counter, presumably confirming its completion.
 
 **Personal Insights:**
+- This may or may not be how computers work.
 
 ## Reflection [As of 7/10/2024]
 **Feedback:** While this assignment did nothing to help my previous understanding, it helped me to understand my lack of understanding concepts, as well as my lack of practice in explaining things in detail.
