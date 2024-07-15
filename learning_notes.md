@@ -20,6 +20,15 @@
 
 **Personal Insights:** Never underestimate a person's dedication to their craft.
 
+## emulsiV
+**URL:** https://eseo-tech.github.io/emulsiV/
+
+**Summary:** 
+
+**Key Takeaways:**
+
+**Personal Insights:**
+
 ## Reflection [As of 7/10/2024]
 **Feedback:** While this assignment did nothing to help my previous understanding, it helped me to understand my lack of understanding concepts, as well as my lack of practice in explaining things in detail.
 
