@@ -8,7 +8,7 @@
 **Key Takeaways:**
 - The Central Processing Unit and Random Access Memory are integral parts of a computer, and work in tandem to make calculations and decisions for the rest of the computer system.
 
-**Personal Insights:** Being able to visualize how a process works can be a vital tool for any visual learner.
+**Personal Insights:** Being able to see first-hand how a process works can be a vital tool for any visual learner.
 
 ## Visual Transistor Level Simulation of the 6502 CPU (and other chips)
 **URL:** http://www.visual6502.org/
