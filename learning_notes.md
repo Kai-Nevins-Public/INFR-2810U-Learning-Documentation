@@ -33,3 +33,6 @@
 **Feedback:** While this assignment did nothing to help my previous understanding, it helped me to understand my lack of understanding concepts, as well as my lack of practice in explaining things in detail.
 
 **Reflection:** The process of documenting my learning has made me more aware of what I did and did not know.
+
+## Reflection [As of 7/15/2024]
+**Reflection:** Nothing has changed.
