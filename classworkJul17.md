@@ -1,6 +1,6 @@
 # Part 1 - Research Paper Exploration
 
-URL: https://ieeexplore.ieee.org/document/8718630
+**URL:** https://ieeexplore.ieee.org/document/8718630
 
 <p>SUMMARY: The research paper, “A Survey of Computer Architecture Simulation Techniques and Tools”, is an analysis created by Ayaz Akram and Lina Sawalha of visual simulators for computer processor models. The paper was created as a way to assist those researching computer architecture to select a simulator to use during their research, since there is a clear lack of proper documentation in the world pertaining to this subject, and contains several tables and models to further elaborate upon their information. The introduction goes on to explain the main goal of a simulation, as well as explaining the role of the survey itself and what it covers.</p>
 
@@ -10,7 +10,12 @@ URL: https://ieeexplore.ieee.org/document/8718630
 
 https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/8600701/8718630/sawal.t3-2917698-small.gif
 
+<p>The survey then discusses the challenges in simulation, and offers some suggestions on how to rectify them. They also discuss simulator validation, the process of confirming that a simulator accurately represents a piece of hardware. Finally, they compare six different timing simulators, discuss the methodology adopted to compare the results of these simulators with their real hardware, and display the research they acquired going through the simulators and their errors.</p>
 
-The survey then discusses the challenges in simulation, and offers some suggestions on how to rectify them. They also discuss simulator validation, the process of confirming that a simulator accurately represents a piece of hardware. Finally, they compare six different timing simulators, discuss the methodology adopted to compare the results of these simulators with their real hardware, and display the research they acquired going through the simulators and their errors.
+<p>As the survey concludes, it reflects on their previous examination, discusses that there is a greater need for better simulation techniques due to the advancement of multicore architecture, and reflects on simulation validation.</p>
 
-As the survey concludes, it reflects on their previous examination, discusses that there is a greater need for better simulation techniques due to the advancement of multicore architecture, and reflects on simulation validation.
+**ANALYSIS:** <p>As highlighted in the survey, simulators are designed to demonstrate new ideas for parts of a computer system. They are also made to help computer architects evaluate and understand how existing systems behave and operate, and can be a useful tool in debugging these systems.</p>
+
+<p>There are two main categories of challenges that simulations can face, both relating in some way to their performance or accuracy. The first is Slow Simulation, an issue that has become more and more prevalent due to simulating multicore processors.</p>
+
+**APPLICATION:** Knowing what I know now about simulators and how they function, I might be able to better understand the simulators that have been and may eventually be provided to me throughout this course.
