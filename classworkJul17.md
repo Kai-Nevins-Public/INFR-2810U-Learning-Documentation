@@ -18,4 +18,9 @@ https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/8600701/871863
 
 <p>There are two main categories of challenges that simulations can face, both relating in some way to their performance or accuracy. The first is Slow Simulation, an issue that has become more and more prevalent due to simulating multicore processors.</p>
 
-**APPLICATION:** Knowing what I know now about simulators and how they function, I might be able to better understand the simulators that have been and may eventually be provided to me throughout this course.
+**APPLICATION:** <p>Knowing what I know now about simulators and how they function, I might be able to better understand the simulators that have been and may eventually be provided to me throughout this course.</p>
+
+# Part 2 - Evaluating emulsiV
+<p>According to Guillaume Savaton of ESEO, emulsiV is a visual simulator created to run an RISC (reduced instruction set computer) processor called Virgule. The program itself is a very basic, “minimal” (as they describe themselves) program that only accepts the instructions that a compiler would generate from a stand-alone program of its type. This means that anyone thinking of using the program will be capable of visualizing basic examples of processor instructions, but will have to search elsewhere for more complex demonstrations. It was designed with the specific purpose of teaching computer architecture to beginners in their personal program.</p>
+
+<p>The simulator comes pre-packaged with several pre-loaded examples, including writing the word “hello”, sending an echo to the computer, and performing a basic input and output loop. The program even designates which step is active with an “animation” toggle, and can be sped up or slowed down to a user’s convenience.</p>
