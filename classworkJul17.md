@@ -8,3 +8,4 @@ URL: https://ieeexplore.ieee.org/document/8718630
 
 <p>The article reflects on the evaluation of the simulators, and lists the six metrics they use to evaluate them: accuracy (how accurate the simulator is to the real hardware), performance (how fast or slow the simulator runs while active), level of details (how many details the simulator includes), easiness of development, flexibility (how flexible the simulator is to modify or configure), and user friendliness (how easy it is for outside users to learn). Easiness of development is never elaborated upon.</p>
 
+![alt text](https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/8600701/8718630/sawal.t3-2917698-small.gif)
