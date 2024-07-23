@@ -10,3 +10,6 @@
 
 ---
 
+REFERENCES:
+US11520508B2.pdf (storage.googleapis.com)
+What is a Memory Module? Definition, Types & Use Cases Techopedia
